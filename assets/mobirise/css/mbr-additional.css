@@ -542,14 +542,15 @@ h6,
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-1 P {
-  color: #475577;
-  font-size: 19px;
+#msg-box8-1h .mbr-section-title,
+#msg-box8-1h p {
+  color: #fff;
 }
-#msg-box5-1 I {
-  color: #fac51c;
+#msg-box8-1h .mbr-section-title {
+  text-align: left;
 }
-#msg-box5-1 H3 {
+#msg-box8-1h .lead P {
+  text-align: left;
   color: #ffffff;
 }
 #features7-8 .card-subtitle {
@@ -563,9 +564,9 @@ h6,
 #msg-box8-4 p {
   color: #fff;
 }
-#social-buttons4-o .mbr-section-title,
-#social-buttons4-o .btn-social {
-  color: #fff;
+#social-buttons2-1k .mbr-section-title,
+#social-buttons2-1k .btn-social {
+  color: #232323;
 }
 #contacts3-6 SPAN {
   color: #ffffff;
