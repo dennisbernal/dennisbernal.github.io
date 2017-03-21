@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-06_1126",
-    "currentPage": "index.html",
+    "currentPage": "123D.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -56,10 +56,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1220,7 +1220,8 @@
     "Photoshop.html": {
       "settings": {
         "title": "Dennis Bernal",
-        "meta_descr": "Website Generator Description"
+        "meta_descr": "Website Generator Description",
+        "order": 4
       },
       "components": [
         {
@@ -1592,7 +1593,8 @@
     "123D.html": {
       "settings": {
         "title": "Dennis Bernal",
-        "meta_descr": "Website Maker Description"
+        "meta_descr": "Website Maker Description",
+        "order": 6
       },
       "components": [
         {
@@ -1617,10 +1619,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1695,7 +1697,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1713,7 +1715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/123d-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/123d-2-1400x1400.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1911,7 +1913,8 @@
     "Adobe Illustrator.html": {
       "settings": {
         "title": "Dennis Bernal",
-        "meta_descr": "Web Site Builder Description"
+        "meta_descr": "Web Site Builder Description",
+        "order": 5
       },
       "components": [
         {
