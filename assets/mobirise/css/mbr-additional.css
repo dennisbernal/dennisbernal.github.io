@@ -408,9 +408,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c1c1c1;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
