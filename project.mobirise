@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 62,
+    "uniqCompNum": 65,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -161,7 +161,7 @@
               "size": 0
             }
           },
-          "text1": "This is the page where you can contact me",
+          "text1": "Contact me if you have any questions",
           "media1": {
             "iconFont": {
               "active": true,
@@ -364,45 +364,44 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DiscussIt</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"file:///C:/Users/0390663/Downloads/DiscussIT 6.docx\">DiscussIt6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">CRODENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact page.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"contact page.html\">CONTACT</a></li>"
         },
         {
+          "_inherit": "header1",
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
             ".mbr-section-title": {
-              "text-align": "left"
+              "color": "#ffffff",
+              "text-align": "center"
             },
-            ".lead P": {
-              "text-align": "left",
-              "color": "#ffffff"
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1h",
+          "_name": "header5",
+          "_anchor": "header5-1s",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1035.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlay": false,
+            "overlayOpacity": "0",
+            "overlayColor": "#efefef",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButton": true
+            "showButtons": true
           },
           "title": "A Little Bit About Me...",
-          "text": "<p>Hello, im Dennis Bernal  6th grader from Miami Arts Studio at Zelda Glacier Middle School. and this is my bioghraphy. I'm a student from Mr.Pate's Technology Production Class and this year I have learned so much such as, how to make a website, how to use photoshop, how to burn a disk, and so much more.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"Introduction.html#msg-box8-4\" data-toolbar=\"-mbrBtnMove\">SEE FULL BIO</a>"
+          "text": "Hello, im Dennis Bernal 6th grader from Miami Arts Studio at Zelda Glacier Middle School. and this is my bioghraphy. I'm a student from Mr.Pate's Technology Production Class and this year I have learned so much such as, how to make a website, how to use photoshop, how to burn a disk, and so much more.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Introduction.html#msg-box2-1o\" data-toolbar=\"-mbrBtnMove\">SEE FULL BIO</a>"
         },
         {
           "_inherit": "features4",
@@ -635,8 +634,8 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-1k",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
@@ -727,7 +726,7 @@
               "size": 0
             }
           },
-          "text1": "This is the page where you can contact me",
+          "text1": "Contact me if you have any questions",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1007,7 +1006,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-y",
+          "_anchor": "msg-box2-z",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -1023,7 +1022,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
+            "inverse": false,
             "showButtons": false,
             "showTitle": false,
             "showText": false
@@ -1107,7 +1106,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-z",
+          "_anchor": "msg-box2-y",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -1123,7 +1122,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
+            "inverse": true,
             "showButtons": false,
             "showTitle": false,
             "showText": false
@@ -1142,7 +1141,7 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1m",
+          "_anchor": "social-buttons2-1q",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1155,8 +1154,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC-PCcDQ2rYGlD2PYTe5_tgQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_styles": {

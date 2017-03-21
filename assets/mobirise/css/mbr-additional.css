@@ -539,16 +539,13 @@ h6,
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
-#msg-box8-1h .mbr-section-title,
-#msg-box8-1h p {
-  color: #fff;
-}
-#msg-box8-1h .mbr-section-title {
-  text-align: left;
-}
-#msg-box8-1h .lead P {
-  text-align: left;
+#header5-1s .mbr-section-title {
   color: #ffffff;
+  text-align: center;
+}
+#header5-1s .mbr-section-lead {
+  color: #ffffff;
+  text-align: center;
 }
 #features7-8 .card-subtitle {
   color: #bcbcbc;
@@ -651,20 +648,20 @@ h6,
 #msg-box8-m p {
   color: #fff;
 }
-#msg-box2-y .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-y .mbr-section-subtitle {
-  color: #a0a0a0;
-}
 #msg-box2-z .mbr-section-title {
   color: #fff;
 }
 #msg-box2-z .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#social-buttons2-1m .mbr-section-title,
-#social-buttons2-1m .btn-social {
+#msg-box2-y .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-y .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#social-buttons2-1q .mbr-section-title,
+#social-buttons2-1q .btn-social {
   color: #232323;
 }
 #msg-box2-1n .mbr-section-title {
