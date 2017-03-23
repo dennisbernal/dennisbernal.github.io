@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-06_1126",
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -397,7 +397,7 @@
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "A Little Bit About Me...",
           "text": "Hello, im Dennis Bernal 6th grader from Miami Arts Studio at Zelda Glacier Middle School. and this is my bioghraphy. I'm a student from Mr.Pate's Technology Production Class and this year I have learned so much such as, how to make a website, how to use photoshop, how to burn a disk, and so much more.<br>",
