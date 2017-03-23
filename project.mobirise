@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-06_1126",
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -384,16 +384,16 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1035.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0",
-            "overlayColor": "#efefef",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
