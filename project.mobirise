@@ -298,10 +298,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -449,9 +449,10 @@
               "name": "plus",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Video Designer",
@@ -460,13 +461,15 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "edit",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title2": "Video Editor For A Movie",
@@ -475,13 +478,15 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "briefcase",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "#",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title3": "Engineer for a company",
@@ -495,9 +500,10 @@
               "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title4": "NASA Engineer",
