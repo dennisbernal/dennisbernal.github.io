@@ -988,9 +988,9 @@
               "url": "https://www.youtube.com/embed/WcgfXd5DD_A?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": false,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#c1c1c1",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "showTitle": false,
             "showText": false,
             "showButton": false
