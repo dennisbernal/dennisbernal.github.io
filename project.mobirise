@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 74,
+    "uniqCompNum": 76,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -125,78 +125,26 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-a",
+          "_name": "form1",
+          "_anchor": "form1-22",
           "_params": {
+            "labelsColor": "#ffffff",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+            "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/cursive-kanye-done-265x88.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Contact me if you have any questions",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "305-219-4039",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "15015 SW 24th Street, Miami, FL 33185",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "dbernal@miamiartsstudio.com",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: dbernal@miamiartsstudio.com<br>Phone: 305-219-4039<br><br><br><strong>Address</strong><br>15015 SW 24th Street, Miami, FL 33185<br>",
+          "title": "CONTACT FORM",
+          "subtitle": "",
           "form": {
-            "title": "MESSAGE",
             "action": "dbernal@miamiartsstudio.com",
             "alerts": {
               "success": "Thanks for filling out form!"
@@ -223,7 +171,15 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us<br></a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -240,8 +196,8 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-1c",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

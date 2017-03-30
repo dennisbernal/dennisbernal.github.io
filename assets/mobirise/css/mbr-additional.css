@@ -469,7 +469,10 @@ h6,
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
-#contacts3-a SPAN {
+#form1-22 .form-control-label {
+  color: #ffffff;
+}
+#form1-22 .mbr-section-title {
   color: #ffffff;
 }
 #msg-box2-1c .mbr-section-title {
