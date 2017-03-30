@@ -666,6 +666,12 @@ h6,
 #msg-box2-1n .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#msg-box2-21 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-21 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #ext_menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
