@@ -1189,17 +1189,17 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>15015 SW 24th Street, Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>Phone:&nbsp;305-219-4039<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: dbernal@miamiartsstudio.com<br>Phone:&nbsp;305-219-4039<br>",
+          "text2": "<p>Fill this form out if you have any questions. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">thank you!!!</span></p>",
           "form": {
             "title": "MESSAGE",
             "action": "dbernal@miamiartsstudio.com",
@@ -1209,7 +1209,7 @@
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -1219,7 +1219,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Phone"
               },
               "message": {
@@ -1228,7 +1228,13 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_styles": {
