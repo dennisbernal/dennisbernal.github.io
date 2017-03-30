@@ -638,15 +638,11 @@ h6,
 #ext_menu-h .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
-#msg-box2-x .mbr-section-title {
+#msg-box2-1z .mbr-section-title {
   color: #fff;
 }
-#msg-box2-x .mbr-section-subtitle {
+#msg-box2-1z .mbr-section-subtitle {
   color: #a0a0a0;
-}
-#msg-box8-m .mbr-section-title,
-#msg-box8-m p {
-  color: #fff;
 }
 #msg-box2-z .mbr-section-title {
   color: #fff;
