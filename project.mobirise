@@ -1143,8 +1143,8 @@
           "_name": "contacts4",
           "_anchor": "contacts4-20",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
