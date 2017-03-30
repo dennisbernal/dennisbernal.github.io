@@ -972,8 +972,8 @@
           "_name": "buttons1",
           "_anchor": "buttons1-1y",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#434141"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a> "
