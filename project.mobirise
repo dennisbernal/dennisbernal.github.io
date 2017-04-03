@@ -943,7 +943,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/torn-image-done1-2000x1384-800x553.jpg",
                 "image": "@PROJECT_PATH@/assets/images/torn-image-done1-2000x1384.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
@@ -973,7 +973,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1384-800x553.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-2000x1384.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 0,
@@ -1042,7 +1042,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
@@ -1105,14 +1105,14 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#c1c1c1"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street, Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: dbernal@miamiartsstudio.com<br>Phone:&nbsp;305-219-4039<br>",
           "text2": "<p>Fill this form out if you have any questions. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">thank you!!!</span></p>",
@@ -1196,7 +1196,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
