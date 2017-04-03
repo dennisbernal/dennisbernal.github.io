@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-06_1126",
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -126,6 +126,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "form1-22",
           "_params": {
             "labelsColor": "#ffffff",
@@ -171,15 +179,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_styles": {
@@ -536,6 +536,11 @@
             "Theme"
           ],
           "_name": "content7",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
           "_anchor": "content7-5",
           "_params": {
             "paddingTop": "0",
@@ -544,12 +549,7 @@
           },
           "text1": "<p><br></p><p>Hello, im Dennis Bernal  6th grader from Miami Arts Studio at Zelda Glacier Middle School. and this is my bioghraphy. I'm a student from Mr.Pate's Technology Production Class and this year I have learned so much such as, how to make a website, how to use photoshop, how to burn a disk, and so much more</p><p><br></p>",
           "text2": "",
-          "text3": "",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          }
+          "text3": ""
         },
         {
           "_styles": {
@@ -937,7 +937,7 @@
             "paddingBottom": "1",
             "bgColor": "#434141"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Watch My Story</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UC-PCcDQ2rYGlD2PYTe5_tgQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a> "
         },
         {
           "_styles": {
@@ -1146,6 +1146,12 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          },
           "_anchor": "contacts4-20",
           "_params": {
             "paddingTop": "1",
@@ -1189,13 +1195,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         },
         {
           "_styles": {
