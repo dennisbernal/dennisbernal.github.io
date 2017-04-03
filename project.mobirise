@@ -886,7 +886,7 @@
           },
           "title": "Dennis Bernal\u001b",
           "text": "~~Come in~~",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Come On In!!</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Come On In!!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.youtube.com/channel/UC-PCcDQ2rYGlD2PYTe5_tgQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a> "
         },
         {
           "_styles": {
@@ -902,57 +902,6 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-1z",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showTitle": false,
-            "showText": false
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1y",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#434141"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/channel/UC-PCcDQ2rYGlD2PYTe5_tgQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch My Story</a> "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-z",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
