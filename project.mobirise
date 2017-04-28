@@ -954,7 +954,12 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click Here For Video</a>",
           "text": "",
-          "title": "A Thhousand Million Reasons...."
+          "title": "A Thousand Million Reasons....",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
