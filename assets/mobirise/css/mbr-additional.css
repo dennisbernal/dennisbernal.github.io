@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 
 
 
@@ -1038,6 +1039,7 @@ h6,
 #ext_menu-2d .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
+
 #ext_menu-2j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1101,6 +1103,9 @@ h6,
 }
 #msg-box5-2m H3 {
   color: #ffffff;
+  text-align: left;
+  font-family: 'Bitter', serif;
+  font-size: 48px;
 }
 #msg-box2-2p .mbr-section-title {
   color: #fff;

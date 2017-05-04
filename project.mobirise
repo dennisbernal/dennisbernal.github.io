@@ -669,10 +669,10 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
@@ -2642,6 +2642,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "48px"
+            }
+          },
           "_anchor": "msg-box5-2m",
           "_params": {
             "imageSize": 50,
@@ -2688,12 +2697,7 @@
           },
           "title": "Adobe Premire Gallery",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
