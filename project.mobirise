@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-06_1126",
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -382,7 +382,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#536164",
+            "bgColor": "#6b6b6b",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -545,7 +545,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#6e7b7a"
+            "bgColor": "#505050"
           },
           "text1": "<p><br></p><p>Hello, im Dennis Bernal  6th grader from Miami Arts Studio at Zelda Glacier Middle School. and this is my bioghraphy. I'm a student from Mr.Pate's Technology Production Class and this year I have learned so much such as, how to make a website, how to use photoshop, how to burn a disk, and so much more</p><p><br></p>",
           "text2": "",
@@ -605,7 +605,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1604.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
@@ -669,7 +669,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
@@ -731,7 +731,7 @@
             "title": "MESSAGE",
             "action": "dbernal@miamiartsstudio.com",
             "alerts": {
-              "success": "Thank you, Bye"
+              "success": "Thank you for filling out the form"
             },
             "fields": {
               "name": {
@@ -746,7 +746,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Phone"
               },
               "message": {
